@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PhD thesis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and git
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with programming
 - 💬 Ask me about sociology and political science
